@@ -1,0 +1,49 @@
+body{
+    background-color: blue;
+}
+
+#divThree{
+    background-color: pink;
+    text-align: center;
+    font-family: cursive;
+}
+
+#divOne{
+    background-color: pink;
+    height: 400px;
+    width: 500px;
+    position: relative;
+    left: 400px;
+}
+
+#divTwo{
+    background-color: pink;
+    height: 122px;
+    width: 200px;
+    position: relative;
+    left: 0px;
+    bottom: 135px;
+    font-family: cursive;
+}
+
+#imgOne, #imgTwo, #imgThree, #imgFour{
+    height: 400px;
+    width: 500px;
+    border: 3px solid white;
+    opacity: 0%;
+}
+
+#imgTwo{
+    position: relative;
+    bottom: 410px;
+}
+
+#imgThree{
+    position: relative;
+    bottom: 820px;
+}
+
+#imgFour{
+    position: relative;
+    bottom: 1230px;
+}

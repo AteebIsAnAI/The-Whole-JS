@@ -1,0 +1,20 @@
+#div1{
+    background-color: #ACDFF9;
+    height: 200px;
+    width: 500px;
+}
+
+#div2{
+    background-color: #E99475;
+    height: 100px;
+    width: 250px;
+    position: relative;
+    left: 600px;
+    bottom: 220px;
+}
+
+h3{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
